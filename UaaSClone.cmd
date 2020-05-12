@@ -1,0 +1,1 @@
+git clone https://dev-cloud-tony-eriksson-sigma-se.scm.s1.umbraco.io/93f482ab-249b-4f63-8350-b93b0c440bc3.git CloudDevTraining.Web
